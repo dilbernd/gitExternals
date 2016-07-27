@@ -1,0 +1,30 @@
+* Checkout einer Version
+
+1. Feststellen der HEAD entsprechenden SVN Loc, Version
+2. Feststellen der Externals
+3. Feststellen der Ziele der Externals
+4. Subpfade erkennen - nur einmal auschecken
+5. Auschecken in bestimmtem Pfad
+6. Verlinken (Mac, Unix), moven (Win) nach komplett erfolgreichem CO
+7. Speichern welche Version ausgecheckt
+   - möglichst auch bei Link/Move einzelne Pfade mit Quelle, Ziel speichern
+     - SQLite?
+
+
+* Löschen von alten Externals
+
+- Iter über Log; löschen der Files
+- Entfernen der
+
+
+* Extras
+
+** Aufrufe:
+
+- clean
+- clean, checkout
+
+
+** Extras:
+
+- dry-run - was würde Operation tun?
